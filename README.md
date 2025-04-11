@@ -1,4 +1,5 @@
-https://github.com/prinsu03/IDOR-Smart-Dukaan/blob/main/banner.png
+![Banner](https://github.com/prinsu03/IDOR-Smart-Dukaan/raw/main/banner.png)
+
 # 🔐 Insecure Direct Object Reference (IDOR) in Invoice Download – Smart Dukaan
 
 > 🚨 Critical vulnerability allowing unauthorized access to private user invoices via insecure ID-based access.
