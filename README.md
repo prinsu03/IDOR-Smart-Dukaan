@@ -78,9 +78,9 @@ During a security assessment of **[store.smartdukaan.com](https://store.smartduk
 
 👤 **Prince Patel**  
 💼 Security Researcher | Red Team | Exploit Dev  
-📧 your.email@domain.com  
-🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+📧 patidarprince@gmail.com  
+🐦 Instagram: [https://www.instagram.com/prinsu03/]
+🔗 LinkedIn: [https://www.linkedin.com/in/cyberprincepatel03/]
 
 ---
 
